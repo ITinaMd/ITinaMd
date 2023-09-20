@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-tinamoradkhani579@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tinamoradkhani579@gmail.com)](mailto:tinamoradkhani579@gmail.com)
 
 <!-- This is taken from https://github.com/maddhruv/npm-statistics -->
-![Html5]([https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fnpm-statistics%2Fmaster%2Fstats.json)
