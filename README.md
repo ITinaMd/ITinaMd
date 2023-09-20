@@ -5,8 +5,6 @@
 
 <!-- This is taken from https://github.com/maddhruv/npm-statistics -->
 
-![Html](https://img.shields.io/badge/html-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
-
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fnpm-statistics%2Fmaster%2Fstats.json)
 
 ### I am a front end developer - 
